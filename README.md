@@ -2,7 +2,7 @@
 
 
 
-## airflow_clickhouse.py
+## [airflow_clickhouse.py](airflow_clickhouse.py)
 Данный скрипт содержит Airflow-DAG для создания отчета,
 который для каждого пользователя приложения считает:
 * количество просмотров и лайков контента в ленте новостей
@@ -14,7 +14,7 @@
 
 
 
-## airflow_newsfeed_telegram.py
+## [airflow_newsfeed_telegram.py](airflow_newsfeed_telegram.py)
 Данный скрипт содержит Airflow-DAG
 для формирования отчета по ленте новостей
 и для автоматической ежедневной отправки аналитической сводки в Telegram.
@@ -29,7 +29,7 @@
 
 
 
-## airflow_application_telegram.py
+## [airflow_application_telegram.py](airflow_application_telegram.py)
 Данный скрипт содержит Airflow-DAG
 для формирования отчета по всему приложению (ленте новостей и сервису отправки сообщений)
 и для автоматической ежедневной отправки аналитической сводки в Telegram.
@@ -46,7 +46,8 @@
 
 
 
-## airflow_anomaly_telegram.py
+## [airflow_anomaly_telegram.py](airflow_anomaly_telegram.py)
+
 
 
 
