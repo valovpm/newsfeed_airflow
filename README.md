@@ -12,7 +12,6 @@
 
 Также все эти метрики рассчитываются в разрезах по полу, возрасту и операционной системе пользователя.
 Готовый отчет ежедневно выгружается в ClickHouse.
-![airflow_clickhouse.jpg](airflow_clickhouse.jpg)
 
 
 
@@ -63,6 +62,5 @@
 * Кликабельность (Click-through rate, CTR)
 * Сообщения (Messages)
 * Сообщений на пользователя (Messages per user, MPU)
-![airflow_anomaly_telegram.jpg](airflow_anomaly_telegram.jpg)
 
 
